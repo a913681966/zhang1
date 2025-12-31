@@ -1261,4 +1261,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 音乐广播,https://tv.iill.top/fm/552&token=8eb49dbdca153f1b269c3d18030c7d754f1ea8306af7b6503a4d10a766eeb388
 
 🕘️更新时间,#genre#
-2025-12-31 06:25:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-31 18:31:31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
