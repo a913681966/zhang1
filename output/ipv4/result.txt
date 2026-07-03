@@ -3,13 +3,13 @@ CCTV-1,https://iptv.catvod.com/catvod?id=CCTV-1%E9%AB%98%E6%B8%85&line=1
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=4
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=6
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=7
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=9
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=5
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4%E7%BE%8E%E6%B4%B2&line=1
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=5
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=9
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=3
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7&line=1
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=15
+CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7&line=1
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=13
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=7
@@ -18,21 +18,27 @@ CCTV-12,https://iptv.catvod.com/catvod?id=CCTV12&line=7
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=1
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=6
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=11
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=6
 CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=9
+CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=6
 CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=2
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+山东卫视,http://223.75.149.129:9906/tsfile/live/0131_1.m3u8?key=txiptv
 四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1
 
 ☘️黑龙江频道,#genre#
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
@@ -48,8 +54,8 @@ CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=2
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -78,7 +84,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 ☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 ☘️吉林频道,#genre#
 
@@ -88,4 +93,4 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🕘️更新时间,#genre#
-2026-07-03 07:14:39,https://iptv.catvod.com/catvod?id=CCTV-1%E9%AB%98%E6%B8%85&line=1
+2026-07-03 20:13:45,https://iptv.catvod.com/catvod?id=CCTV-1%E9%AB%98%E6%B8%85&line=1
