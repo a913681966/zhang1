@@ -579,17 +579,17 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 哈尔滨新闻综合,https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-4.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
@@ -1119,7 +1119,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 江苏体育,https://stream1.freetv.fun/jiang-su-ti-yu-4.ctv
 江苏公共,http://iptv.666230.xyz/iptv/jsyd.php/G_JSGG
 江苏公共,https://live.chinacert.cftest5.cn/cnmg/live/626064693
-江苏城市,http://112.103.141.123:1234/626064714
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
 江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 江苏城市,https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=b92ada516923349cef01531d5bff5992a22ba9122a3e7c2696e7edd09a971fa6e2a2e1a2209c9ab3c9a404643dce743a2de2a97c7793ae60e3b2614d285ec1c42bcb6619c30a8bb2923adbbb68
@@ -1129,7 +1128,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 江苏城市,https://stream1.freetv.fun/jiang-su-cheng-shi-7.m3u8
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202510240800588fc3b82544a14452832128fa5d5a06e0&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251024080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.88&SecurityKey=20251024080058&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8926243c6d96bc2b45ee86fbcb2451f1&ddCalcu=18f9e12256642024b3ccb6fd6986ebec524b
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=20251025080101ab69bd3b555244cebecc8604efb5a5a2&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251025080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.90&SecurityKey=20251025080101&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=683e0ed68a2d415532c228c24c8c2767&ddCalcu=7668e7322e6c008ecd4628ca822d24c12535
-江苏影视,http://112.103.141.123:1234/626064697
+江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202510260800570341656ce9a34a0299391875145072ee&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251026080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20251026080057&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9dcd3c19797e0c00a88aca0c9a5b4642&ddCalcu=294de6c24d6b305ca199c709a7cea08c80a0
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
 江苏影视,https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
 江苏影视,https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
@@ -1139,7 +1138,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 江苏影视,https://migu.188766.xyz/?migutoken=a986eb0fae53594ad0fb7ca8b734acad&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
 江苏影视,https://migu.188766.xyz/?migutoken=a308c85adb0e5626191f1f92114fec1c&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
 江苏影视,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20251023080142772bf60e882f42cebdb0f8be760fd6b7&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20251023080142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=106.13.250.83&SecurityKey=20251023080142&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=08704ae8cfefd451664dee9c23c79ed1&ddCalcu=10d8ee72906740ca3e28cc9feeefdd446561
-江苏教育,http://112.103.141.123:1234/628008321
+江苏影视,https://migu.188766.xyz/?migutoken=023ca3fa558e18a1f99ec6d948ad8e9e&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
 江苏教育,http://goo.bkpcp.top/mg/jsjy
 江苏教育,https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
@@ -1149,6 +1148,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d
 江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321
 江苏教育,https://migu.188766.xyz/?migutoken=01f8deecb9d9efc852f99a04a889c4b1&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
+江苏教育,https://migu.188766.xyz/?migutoken=7033071779ec5fd7cf46066cc021214c&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
@@ -1328,4 +1328,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 音乐广播,https://tv.iill.top/fm/552&token=8eb49dbdca153f1b269c3d18030c7d754f1ea8306af7b6503a4d10a766eeb388
 
 🕘️更新时间,#genre#
-2026-10-29 00:33:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-10-29 09:40:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
